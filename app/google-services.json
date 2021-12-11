@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655180983769",
+    "project_id": "pokedex-trainer",
+    "storage_bucket": "pokedex-trainer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655180983769:android:ea91cbe8cfdda3922f7dc8",
+        "android_client_info": {
+          "package_name": "com.example.mipokedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655180983769-d2p86uglqd10q9snbgfhc6pllndb2vqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnzc5PHtlBrWvYMYxtTXyRu5oD8B346vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655180983769-d2p86uglqd10q9snbgfhc6pllndb2vqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
